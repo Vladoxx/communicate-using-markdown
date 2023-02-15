@@ -9,5 +9,5 @@ console.log(cachoeira);
 
 - [x] Create index.md file
 - [x] Add tittle content
-- [ ] Add imagettps
+- [ ] Add image
 - [ ] Adding code
